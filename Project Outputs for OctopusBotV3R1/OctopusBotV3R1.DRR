@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: OctopusBotV3R1.PcbDoc   28/07/2014  12:37:43 p.m.
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : OctopusBotV3R1.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        28mil (0.7112mm)         Round          70               17.05 Inch (433.17 mm)
+T2        35.43mil (0.89992mm)     Round          33               5.30 Inch (134.72 mm)
+T3        40mil (1.016mm)          Round          10               1.33 Inch (33.75 mm)
+T4        51.18mil (1.29997mm)     Round          22               9.60 Inch (243.83 mm)
+---------------------------------------------------------------------------
+Totals                                            135              33.29 Inch (845.46 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
